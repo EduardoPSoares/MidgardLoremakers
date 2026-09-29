@@ -1,0 +1,13 @@
+target/
+build/
+bin/
+out/
+.gradle/
+.idea/
+.vscode/
+*.iml
+*.class
+*.log
+*.db
+.env
+config.env
